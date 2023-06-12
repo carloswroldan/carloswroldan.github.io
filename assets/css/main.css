@@ -2247,7 +2247,7 @@ ul
     padding: 0 1.5em;
 }
 
-.containerv {
+.container {
     max-width: 1170px;
     margin-left: auto;
     margin-right: auto;
@@ -2338,10 +2338,12 @@ ul {
 }
 
 /* LARGE SIZE */
+/*
 @media(min-width: 700px) {
     body {
         padding: 0 4em;
     }
+*/
     .contact-wrapper {
         display: grid;
         grid-template-columns: 2fr 1fr;
